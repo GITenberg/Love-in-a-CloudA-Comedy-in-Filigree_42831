@@ -1,0 +1,29 @@
+_repo: Love-in-a-CloudA-Comedy-in-Filigree_42831
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42831-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Bates, Arlo
+    birthdate: 1850
+    deathdate: 1918
+    gutenberg_agent_id: '2784'
+    url: http://www.gutenberg.org/2009/agents/2784
+    wikipedia: http://en.wikipedia.org/wiki/Arlo_Bates
+description: ''
+gutenberg_issued: '2013-05-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42831'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Boston (Mass.) -- Social life and customs -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Anonyms and pseudonyms -- Fiction'
+- !lcsh 'Authorship -- Fiction'
+title: 'Love in a Cloud: A Comedy in Filigree'
+url: http://www.gutenberg.org/ebooks/42831
