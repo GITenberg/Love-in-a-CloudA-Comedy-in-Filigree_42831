@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2784
     wikipedia: http://en.wikipedia.org/wiki/Arlo_Bates
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42831#Love-in-a-CloudA-Comedy-in-Filigree
 gutenberg_issued: '2013-05-28'
 gutenberg_type: Text
 identifiers:
